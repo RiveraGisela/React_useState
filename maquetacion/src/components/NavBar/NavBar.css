@@ -1,0 +1,8 @@
+.ulNav{
+    display: flex;
+    list-style: none;
+    gap: 1rem;
+    color: black;
+    font-size: x-large;
+    text-decoration: none;
+}

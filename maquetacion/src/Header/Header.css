@@ -1,0 +1,30 @@
+.header {  
+    display: flex;
+    gap: 3rem;
+    justify-content: center;
+    align-items: center;
+    background-color: #9cb2ae;
+    text-align: center;
+}
+
+.li {
+    list-style: none;
+    text-decoration: none;
+    margin: 1rem;
+    font-size: x-large;
+    padding: 0.3rem;
+    padding: 14px 20px;
+    margin: 0 20px;
+    
+    
+    
+}
+
+li:hover {
+    background-color: #1bcdda;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+    list-style: none;
+}
+
